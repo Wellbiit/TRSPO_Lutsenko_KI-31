@@ -2,7 +2,7 @@ import threading
 import random
 import time
 
-N = 1_000_000
+N = 1000000
 
 def monteCarlomethod(points, results, indx):
     in_circle = 0
